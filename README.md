@@ -26,5 +26,5 @@ In this figure, we can see that the test campaign performed slightly worse when 
 Looking at the cost-per-click comparison, we can see a slightly worse performance by the test campaign, but statistical tests do not confirm it to be statistically significant. So, it would be unlikely to see a real difference in CTR between campaigns had this campaign run for longer.  
 ![figure 1 3](https://github.com/akiraloli/data-projects/assets/74118113/b7445b97-192d-4cb8-8c5e-c00fde3e8105)  
 
-In this last figure that compares the cost per acquisition, we can see a rise in the cost for the test campaign, but once again, statistical tests do not confirm it to be statistically significant. So, it is unlikely to see a real difference in CPA between campaigns had this campaign run for a longer period of time.  
+In this last figure, which compares the cost per acquisition, we can see a rise in the cost for the test campaign, but once again, statistical tests do not confirm it to be statistically significant. So, it is unlikely to see a real difference in CPA between campaigns had this campaign run for a longer period of time.  
 ![figure 1 4](https://github.com/akiraloli/data-projects/assets/74118113/ecd08d79-26e7-4126-b09c-60ae42919d4c)
