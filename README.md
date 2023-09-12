@@ -11,8 +11,9 @@ No. There is no real difference in cost to acquire a customer between campaigns.
 The test campaign is not a better conversion campaign than the current campaign.
   
 4. <b>What are the recommended next steps?</b>  
-Though we can continue running the test campaign to acquire more data, we are unlikely to see a significant increase in conversions.  
-  So, a few other options are:
+Though we can continue running the test campaign to acquire more data, we are unlikely to see a significant increase in conversions.
+
+  So, a few other options are:  
 - We can run experiments to determine why the CTR increased to help us improve CTR across our awareness and conversion campaigns  
 - Run more A/B tests with a focus on increasing conversion rates.
 
