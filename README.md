@@ -17,7 +17,7 @@ Though we can continue running the test campaign to acquire more data, we are un
 - We can run experiments to determine why the CTR increased to help us improve CTR across our awareness and conversion campaigns  
 - Run more A/B tests with a focus on increasing conversion rates.
 
-## Results, visualized
+## Findings, visualized
 Here, we can see a significant increase in CTR in the test campaign compared to the control campaign. When running statistical tests, it was confirmed to be statistically significant, with a real increase of around 3.2%  
 ![figure 1 1](https://github.com/akiraloli/data-projects/assets/74118113/f9d082d9-58a9-4302-a34c-ad6263512211)  
 
