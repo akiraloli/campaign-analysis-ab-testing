@@ -1,4 +1,4 @@
-# AB Testing Campaign
+# AB Testing Campaign Summary
 
 ## Executive Summary
 1. <b>Is the test campaign more effective at converting customers?</b>  
