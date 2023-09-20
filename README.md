@@ -1,6 +1,5 @@
 # AB Testing Campaign Summary
 
-## Executive Summary
 1. <b>Is the test campaign more effective at converting customers?</b>  
 No. While the test campaign's click-through rate is significantly higher, the conversion rate is significantly lower.
    
